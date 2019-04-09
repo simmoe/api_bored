@@ -12,8 +12,8 @@
   <a href="https://www.w3schools.com/js/js_json_xml.asp">W3C on the difference between JSON an XML</a><br>
   <a href="">Eloquent Javascript on asynchronous programming in.. well, javascript</a>
   
-## Handlebars
-  We also use a js framework called <a href="https://handlebarsjs.com/">handlebars</a>, to ease json formatting. 
+## Handlebars and Materialize
+  We also use a js framework called <a href="https://handlebarsjs.com/">handlebars</a>, to ease json formatting.Handlebars lets you set up an HTML template, with placeholder values for dynamic content - here, the JSON response from the API. 
   
   
   Lastly - and really the reason we use handlebars - we use a rather complex css boilerplate, <a href="https://materializecss.com/cards.html"> called materialize</a>, which gives us some rather cool layouts. 
