@@ -2,6 +2,8 @@
   This is an example of a very simple app using an API. Namely we use pure javascript embedded directly in an HTML file, to get results from an API called <a href="https://www.boredapi.com/documentation">the "bored" API</a>.
   
 <a href="https://simmoe.github.io/api_bored/">See the app in action here</a>
+
+https://docs.google.com/drawings/d/e/2PACX-1vT49yZXzjLY9nHnFz9sZsiZ58roTaYL4g3_FjwGvs1sPJTvAD6uRrK4e6VkNe5nXOdozMJ1WUrbip-5/pub?w=960&h=720
   
   The structure of the page is made up of a small jQuery menu - when you click menu items, the page toggles visibility on respective div sections. This is a neat and quick way to build a one-page html app, that is superquick and still easy to overview code wise.  
   
